@@ -1,8 +1,8 @@
 .container {
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 2;
+   // grid-template-columns: repeat(2 , auto);
     justify-content: center;
     align-items: center;
-    
+
 }
